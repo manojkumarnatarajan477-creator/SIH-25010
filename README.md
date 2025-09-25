@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 25/09/2025
+## Register Number: 25015346
+## Name: MANOJ KUMAR N
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -40,13 +40,13 @@ Government of Punjab
 ## Theme
 Agriculture, FoodTech & Rural Development
 
-
+##PROPOSED SOLUTION
 <ul> <li>Create a **Blockchain-enabled Farm-to-Table Traceability System** that allows small and marginal farmers to digitally record and authenticate their farming practices, including seed type, fertilizer and pesticide usage, harvest dates, and transport history.</li> <li>This transparent system builds consumer trust by verifying organic and sustainable farming claims, enabling farmers to access premium markets and fair pricing directly.</li> <li>The mobile app supports multilingual voice commands for easy data entry by low-literacy users and incorporates AI-driven demand forecasting to help farmers plan crops based on market needs, thereby reducing wastage and increasing profitability.</li> </ul>
-Technical Approach
+##TECHNICAL SUPPORT
 <ul> <li>Technologies: Blockchain platforms like Hyperledger or Ethereum for immutable record-keeping; Python and TensorFlow for AI-powered demand forecasting; React Native for cross-platform mobile app development; cloud services for data storage and processing; voice recognition APIs for multilingual, voice-based interaction.</li> <li>Methodology: Farmers input farming practice data into the app → blockchain records create an immutable trace → AI analyzes market demand trends and provides crop planning recommendations → consumers and retailers access verified produce information → government and NGOs use data analytics dashboards for monitoring and support.</li> </ul>
-Feasibility and Viability
+##FEASIBILITY AND VIABILITY
  <ul> <li>Blockchain and AI technologies are mature, scalable, and increasingly cost-effective, making the solution technically feasible.</li> <li>Challenges include limited internet connectivity in rural areas, initial user training, and adoption resistance.</li> <li>Strategies to overcome these include designing offline app modes with periodic syncing, partnering with local cooperatives and government agencies for farmer education, and providing incentives for platform usage.</li> </ul>
-Impact and Benefits
+##IMPACT AND BENIFITS
 <ul> <li>Empowers small farmers by increasing transparency, building consumer trust, and enabling access to premium markets, which can boost incomes.</li> <li>Reduces exploitation by middlemen and supports sustainable, responsible farming through verified organic practices.</li> <li>Enables data-driven agricultural planning, reducing post-harvest losses and improving food security.</li> </ul>
-Research and References
+##RESEARCH AND REFERENCES
  <ul> <li>NABARD Report, 2022 – Statistics on small and marginal farmers in India.</li> <li>FAO Report, 2023 – Impact of traceability systems on farmer income and market access.</li> <li>Studies on AI for crop demand forecasting and blockchain adoption in agri-food supply chains.</li> </ul>
